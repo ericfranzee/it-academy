@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:webinar/app/pages/introduction_page/splash_page.dart';
-import 'package:webinar/app/pages/offline_page/offline_list_course_page.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/pages/introduction_page/splash_page.dart';
+import 'package:incrat/app/pages/offline_page/offline_list_course_page.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 class InternetConnectionPage extends StatefulWidget {
   static const String pageName = '/internet-connection';

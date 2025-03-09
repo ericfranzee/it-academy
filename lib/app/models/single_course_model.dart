@@ -1,6 +1,6 @@
-import 'package:webinar/app/models/blog_model.dart';
-import 'package:webinar/app/models/can_model.dart';
-import 'package:webinar/app/models/user_model.dart';
+import 'package:incrat/app/models/blog_model.dart';
+import 'package:incrat/app/models/can_model.dart';
+import 'package:incrat/app/models/user_model.dart';
 
 import 'course_model.dart';
 

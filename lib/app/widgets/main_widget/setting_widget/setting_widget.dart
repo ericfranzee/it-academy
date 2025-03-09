@@ -3,12 +3,12 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:webinar/app/models/login_history_model.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/data/api_public_data.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/config/assets.dart';
+import 'package:incrat/app/models/login_history_model.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/data/api_public_data.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/config/assets.dart';
 
 import '../../../../common/data/app_language.dart';
 import '../../../../config/colors.dart';

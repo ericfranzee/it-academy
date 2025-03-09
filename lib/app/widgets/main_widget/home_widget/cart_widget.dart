@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/banks_model.dart';
-import 'package:webinar/app/pages/main_page/home_page/cart_page/bank_accounts_page.dart';
-import 'package:webinar/app/pages/main_page/main_page.dart';
-import 'package:webinar/app/services/user_service/cart_service.dart';
-import 'package:webinar/app/services/user_service/financial_service.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/utils.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/models/banks_model.dart';
+import 'package:incrat/app/pages/main_page/home_page/cart_page/bank_accounts_page.dart';
+import 'package:incrat/app/pages/main_page/main_page.dart';
+import 'package:incrat/app/services/user_service/cart_service.dart';
+import 'package:incrat/app/services/user_service/financial_service.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/utils.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../../common/utils/date_formater.dart';
 

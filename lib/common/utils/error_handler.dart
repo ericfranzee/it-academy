@@ -1,5 +1,5 @@
 
-import 'package:webinar/common/enums/error_enum.dart';
+import 'package:incrat/common/enums/error_enum.dart';
 
 import '../components.dart';
 

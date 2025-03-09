@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:webinar/common/common.dart';
+import 'package:incrat/common/common.dart';
 
 class TabletDetector {
 

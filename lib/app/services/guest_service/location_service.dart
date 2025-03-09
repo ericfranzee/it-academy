@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart';
-import 'package:webinar/app/models/location_model.dart';
+import 'package:incrat/app/models/location_model.dart';
 
 import '../../../common/utils/constants.dart';
 import '../../../common/utils/http_handler.dart';

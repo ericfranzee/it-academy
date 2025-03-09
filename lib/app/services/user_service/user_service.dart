@@ -2,17 +2,17 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:http/http.dart';
-import 'package:webinar/app/models/course_model.dart';
-import 'package:webinar/app/models/login_history_model.dart';
-import 'package:webinar/app/models/profile_model.dart';
-import 'package:webinar/app/models/purchase_course_model.dart';
-import 'package:webinar/app/models/reward_point_model.dart';
-import 'package:webinar/app/providers/user_provider.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/data/app_data.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/http_handler.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/models/course_model.dart';
+import 'package:incrat/app/models/login_history_model.dart';
+import 'package:incrat/app/models/profile_model.dart';
+import 'package:incrat/app/models/purchase_course_model.dart';
+import 'package:incrat/app/models/reward_point_model.dart';
+import 'package:incrat/app/providers/user_provider.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/data/app_data.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/http_handler.dart';
+import 'package:incrat/locator.dart';
 
 import 'package:dio/dio.dart' as dio;
 

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/pages/main_page/main_page.dart';
-import 'package:webinar/app/widgets/introduction_widget/intro_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/data/app_data.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
+import 'package:incrat/app/pages/main_page/main_page.dart';
+import 'package:incrat/app/widgets/introduction_widget/intro_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/data/app_data.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
 
 class IntroPage extends StatefulWidget {
   static const String pageName = '/intro';

@@ -1,15 +1,15 @@
 
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/meeting_times_model.dart';
-import 'package:webinar/app/models/profile_model.dart';
-import 'package:webinar/app/services/guest_service/providers_service.dart';
-import 'package:webinar/app/widgets/main_widget/provider_widget/user_profile_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/enums/meeting_type_enum.dart';
-import 'package:webinar/common/utils/currency_utils.dart';
-import 'package:webinar/common/utils/date_formater.dart';
-import 'package:webinar/config/colors.dart';
+import 'package:incrat/app/models/meeting_times_model.dart';
+import 'package:incrat/app/models/profile_model.dart';
+import 'package:incrat/app/services/guest_service/providers_service.dart';
+import 'package:incrat/app/widgets/main_widget/provider_widget/user_profile_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/enums/meeting_type_enum.dart';
+import 'package:incrat/common/utils/currency_utils.dart';
+import 'package:incrat/common/utils/date_formater.dart';
+import 'package:incrat/config/colors.dart';
 
 import '../../../../../common/utils/app_text.dart';
 import '../../../../../config/styles.dart';

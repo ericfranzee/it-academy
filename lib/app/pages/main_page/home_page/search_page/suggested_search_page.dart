@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/course_model.dart';
-import 'package:webinar/app/pages/main_page/home_page/search_page/result_search_page.dart';
-import 'package:webinar/app/services/guest_service/course_service.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/models/course_model.dart';
+import 'package:incrat/app/pages/main_page/home_page/search_page/result_search_page.dart';
+import 'package:incrat/app/services/guest_service/course_service.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../../../config/assets.dart';
 

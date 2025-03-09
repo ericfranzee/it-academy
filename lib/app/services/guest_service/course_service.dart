@@ -1,15 +1,15 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:webinar/app/models/content_model.dart';
-import 'package:webinar/app/models/course_model.dart';
-import 'package:webinar/app/models/notice_model.dart';
-import 'package:webinar/app/models/single_course_model.dart';
-import 'package:webinar/app/models/user_model.dart';
-import 'package:webinar/common/data/api_public_data.dart';
-import 'package:webinar/common/utils/constants.dart';
+import 'package:incrat/app/models/content_model.dart';
+import 'package:incrat/app/models/course_model.dart';
+import 'package:incrat/app/models/notice_model.dart';
+import 'package:incrat/app/models/single_course_model.dart';
+import 'package:incrat/app/models/user_model.dart';
+import 'package:incrat/common/data/api_public_data.dart';
+import 'package:incrat/common/utils/constants.dart';
 import 'package:http/http.dart';
-import 'package:webinar/common/utils/http_handler.dart';
+import 'package:incrat/common/utils/http_handler.dart';
 
 import '../../../common/enums/error_enum.dart';
 import '../../../common/utils/error_handler.dart';

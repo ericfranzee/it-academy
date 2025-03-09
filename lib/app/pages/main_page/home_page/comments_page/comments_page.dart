@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/blog_model.dart';
-import 'package:webinar/app/pages/main_page/home_page/single_course_page/single_course_page.dart';
-import 'package:webinar/app/providers/user_provider.dart';
-import 'package:webinar/app/services/user_service/comments_service.dart';
-import 'package:webinar/app/widgets/main_widget/comments_widget/comments_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/date_formater.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/models/blog_model.dart';
+import 'package:incrat/app/pages/main_page/home_page/single_course_page/single_course_page.dart';
+import 'package:incrat/app/providers/user_provider.dart';
+import 'package:incrat/app/services/user_service/comments_service.dart';
+import 'package:incrat/app/widgets/main_widget/comments_widget/comments_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/date_formater.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/locator.dart';
 
 import 'comment_details_page.dart';
 

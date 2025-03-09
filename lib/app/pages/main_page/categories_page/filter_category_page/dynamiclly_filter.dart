@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/filter_model.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/models/filter_model.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../../../common/utils/app_text.dart';
 import '../../../../../config/colors.dart';

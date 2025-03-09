@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/common/utils/color_utils.dart';
-import 'package:webinar/config/colors.dart';
+import 'package:incrat/common/utils/color_utils.dart';
+import 'package:incrat/config/colors.dart';
 
 class CategoryModel {
   int? id;

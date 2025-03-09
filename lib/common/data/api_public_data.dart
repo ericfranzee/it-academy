@@ -1,5 +1,5 @@
 
-import 'package:webinar/app/models/currency_model.dart';
+import 'package:incrat/app/models/currency_model.dart';
 
 class PublicData{
 

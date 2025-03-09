@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/assignment_model.dart';
-import 'package:webinar/app/services/user_service/assignment_service.dart';
-import 'package:webinar/app/widgets/main_widget/assignment_widget/assignment_history_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/enums/error_enum.dart';
-import 'package:webinar/common/utils/app_text.dart';
+import 'package:incrat/app/models/assignment_model.dart';
+import 'package:incrat/app/services/user_service/assignment_service.dart';
+import 'package:incrat/app/widgets/main_widget/assignment_widget/assignment_history_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/enums/error_enum.dart';
+import 'package:incrat/common/utils/app_text.dart';
 
 import '../../../../../config/colors.dart';
 import '../../../../models/chat_model.dart';

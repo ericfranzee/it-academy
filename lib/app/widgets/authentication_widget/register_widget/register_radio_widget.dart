@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../models/register_config_model.dart';
 

@@ -1,6 +1,6 @@
-# Rocket LMS
+# ITA
 
-Rocket LMS project.
+ITA project.
 
 ## Getting Started
 

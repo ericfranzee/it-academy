@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/config/styles.dart';
 
 
 bool isNavigatedIpPage = false;

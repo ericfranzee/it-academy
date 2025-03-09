@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/assignment_model.dart';
-import 'package:webinar/app/pages/main_page/home_page/assignments_page/assignment_history_page.dart';
-import 'package:webinar/app/services/user_service/assignment_service.dart';
-import 'package:webinar/app/widgets/main_widget/assignment_widget/submissions_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/config/assets.dart';
+import 'package:incrat/app/models/assignment_model.dart';
+import 'package:incrat/app/pages/main_page/home_page/assignments_page/assignment_history_page.dart';
+import 'package:incrat/app/services/user_service/assignment_service.dart';
+import 'package:incrat/app/widgets/main_widget/assignment_widget/submissions_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/config/assets.dart';
 
 class SubmissionsPage extends StatefulWidget {
   static const String pageName = '/submissions';

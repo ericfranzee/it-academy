@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
-import 'package:webinar/app/pages/authentication_page/login_page.dart';
-import 'package:webinar/app/pages/authentication_page/register_page.dart';
-import 'package:webinar/app/pages/main_page/main_page.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/pages/authentication_page/login_page.dart';
+import 'package:incrat/app/pages/authentication_page/register_page.dart';
+import 'package:incrat/app/pages/main_page/main_page.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../config/colors.dart';
 

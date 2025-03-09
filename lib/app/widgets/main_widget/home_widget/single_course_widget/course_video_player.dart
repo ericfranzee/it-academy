@@ -5,12 +5,12 @@ import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:video_player/video_player.dart';
-import 'package:webinar/app/widgets/main_widget/home_widget/single_course_widget/full_screen_video_player.dart';
-import 'package:webinar/common/utils/date_formater.dart';
-import 'package:webinar/common/utils/download_manager.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/widgets/main_widget/home_widget/single_course_widget/full_screen_video_player.dart';
+import 'package:incrat/common/utils/date_formater.dart';
+import 'package:incrat/common/utils/download_manager.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../../../common/common.dart';
 

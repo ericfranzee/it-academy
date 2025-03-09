@@ -2,11 +2,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/data/app_language.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/data/app_language.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/locator.dart';
 
 Widget courseItemVerticallyShimmer(){
   

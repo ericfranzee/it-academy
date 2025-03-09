@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
 
 class RegisterTextareaWidget extends StatefulWidget {
   final Function(String data) setData;

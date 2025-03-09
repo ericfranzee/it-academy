@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:webinar/app/models/payout_model.dart';
-import 'package:webinar/app/models/sales_model.dart';
-import 'package:webinar/app/models/summary_model.dart';
-import 'package:webinar/app/services/user_service/financial_service.dart';
-import 'package:webinar/common/badges.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/currency_utils.dart';
-import 'package:webinar/common/utils/date_formater.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/models/payout_model.dart';
+import 'package:incrat/app/models/sales_model.dart';
+import 'package:incrat/app/models/summary_model.dart';
+import 'package:incrat/app/services/user_service/financial_service.dart';
+import 'package:incrat/common/badges.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/currency_utils.dart';
+import 'package:incrat/common/utils/date_formater.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../models/offline_payment_model.dart';
 

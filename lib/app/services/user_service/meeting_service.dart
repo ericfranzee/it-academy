@@ -1,11 +1,11 @@
 import 'dart:convert';
 
 import 'package:http/http.dart';
-import 'package:webinar/app/models/meeting_details_model.dart';
-import 'package:webinar/app/models/meeting_model.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/http_handler.dart';
+import 'package:incrat/app/models/meeting_details_model.dart';
+import 'package:incrat/app/models/meeting_model.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/http_handler.dart';
 
 import '../../../common/enums/error_enum.dart';
 import '../../../common/utils/constants.dart';

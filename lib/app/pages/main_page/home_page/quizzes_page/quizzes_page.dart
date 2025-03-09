@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/list_quiz_model.dart';
-import 'package:webinar/app/pages/main_page/home_page/quizzes_page/quiz_info_page.dart';
-import 'package:webinar/app/widgets/main_widget/quizzes_widget/quizzes_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/date_formater.dart';
-import 'package:webinar/config/assets.dart';
+import 'package:incrat/app/models/list_quiz_model.dart';
+import 'package:incrat/app/pages/main_page/home_page/quizzes_page/quiz_info_page.dart';
+import 'package:incrat/app/widgets/main_widget/quizzes_widget/quizzes_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/date_formater.dart';
+import 'package:incrat/config/assets.dart';
 
 import '../../../../../locator.dart';
 import '../../../../models/quize_model.dart';

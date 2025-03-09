@@ -1,5 +1,5 @@
-import 'package:webinar/app/models/profile_model.dart';
-import 'package:webinar/app/models/user_model.dart';
+import 'package:incrat/app/models/profile_model.dart';
+import 'package:incrat/app/models/user_model.dart';
 
 class CartModel {
   List<Items>? items;

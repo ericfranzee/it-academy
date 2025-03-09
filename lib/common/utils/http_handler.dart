@@ -2,10 +2,10 @@ import 'dart:convert';
 import 'package:dio/dio.dart' as dio;
 import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
-import 'package:webinar/app/pages/introduction_page/ip_empty_state_page.dart';
-import 'package:webinar/app/pages/introduction_page/maintenance_page.dart';
-import 'package:webinar/common/data/app_language.dart';
-import 'package:webinar/common/utils/constants.dart';
+import 'package:incrat/app/pages/introduction_page/ip_empty_state_page.dart';
+import 'package:incrat/app/pages/introduction_page/maintenance_page.dart';
+import 'package:incrat/common/data/app_language.dart';
+import 'package:incrat/common/utils/constants.dart';
 
 import '../../app/pages/authentication_page/login_page.dart';
 import '../../locator.dart';

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/register_config_model.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/models/register_config_model.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 class RegisterCheckboxWidget extends StatefulWidget {
   final Function(List<int> data) setData;

@@ -1,5 +1,5 @@
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:webinar/common/data/api_public_data.dart';
+import 'package:incrat/common/data/api_public_data.dart';
 
 class AppData {
 

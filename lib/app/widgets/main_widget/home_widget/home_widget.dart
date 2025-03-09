@@ -4,11 +4,11 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:provider/provider.dart';
-import 'package:webinar/app/pages/main_page/home_page/notification_page.dart';
-import 'package:webinar/app/pages/main_page/home_page/search_page/suggested_search_page.dart';
-import 'package:webinar/app/providers/user_provider.dart';
-import 'package:webinar/app/services/authentication_service/authentication_service.dart';
-import 'package:webinar/common/components.dart';
+import 'package:incrat/app/pages/main_page/home_page/notification_page.dart';
+import 'package:incrat/app/pages/main_page/home_page/search_page/suggested_search_page.dart';
+import 'package:incrat/app/providers/user_provider.dart';
+import 'package:incrat/app/services/authentication_service/authentication_service.dart';
+import 'package:incrat/common/components.dart';
 
 import '../../../../common/common.dart';
 import '../../../../common/utils/app_text.dart';

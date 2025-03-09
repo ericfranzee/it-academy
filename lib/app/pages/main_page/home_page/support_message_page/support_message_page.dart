@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:webinar/app/providers/user_provider.dart';
-import 'package:webinar/app/services/user_service/support_service.dart';
-import 'package:webinar/app/widgets/main_widget/support_widget/support_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/date_formater.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/providers/user_provider.dart';
+import 'package:incrat/app/services/user_service/support_service.dart';
+import 'package:incrat/app/widgets/main_widget/support_widget/support_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/date_formater.dart';
+import 'package:incrat/locator.dart';
 
 import '../../../../../common/badges.dart';
 import '../../../../../config/assets.dart';

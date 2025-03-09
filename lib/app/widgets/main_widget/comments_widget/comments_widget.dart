@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:webinar/app/services/user_service/comments_service.dart';
-import 'package:webinar/common/badges.dart';
-import 'package:webinar/common/utils/date_formater.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/services/user_service/comments_service.dart';
+import 'package:incrat/common/badges.dart';
+import 'package:incrat/common/utils/date_formater.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../../common/common.dart';
 import '../../../../common/components.dart';

@@ -1,5 +1,5 @@
-name: webinar
-description: webinar project.
+name: incrat
+description: incrat project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -109,13 +109,33 @@ dev_dependencies:
   flutter_lints: ^4.0.0
   hive_generator: ^2.0.1
   build_runner: ^2.4.9
+  flutter_launcher_icons: "^0.14.3"
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/image/png/ITA-logo.png"
+  background_color: "#ffffff"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/image/png/ITA-logo.png"
+    background_color: "#ffffff"
+    theme_color: "#eeffff"
 
 flutter_native_splash:
   android: true
   ios: true
   web: false
-  color: "#00BA63"
-  color_dark: "#00BA63"
+  color: "#eeffff"
+  color_dark: "#eeffff"
+  image: assets/image/png/ITA-logo.png
+
+  android_12:
+    image: assets/image/png/ITA-logo.png
+    icon_background_color: "#eeffff"
+    image_dark: assets/image/png/ITA-logo.png
+    icon_background_color_dark: "#eeffff"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

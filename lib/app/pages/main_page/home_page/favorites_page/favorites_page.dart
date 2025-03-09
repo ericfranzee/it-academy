@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:webinar/app/models/favorite_model.dart';
-import 'package:webinar/app/services/user_service/user_service.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
+import 'package:incrat/app/models/favorite_model.dart';
+import 'package:incrat/app/services/user_service/user_service.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
 
 import '../../../../../config/assets.dart';
 import '../../../../../config/colors.dart';

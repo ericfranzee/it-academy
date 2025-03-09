@@ -1,14 +1,14 @@
 
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/content_model.dart';
-import 'package:webinar/app/models/forum_model.dart';
-import 'package:webinar/app/models/single_course_model.dart';
-import 'package:webinar/app/services/guest_service/course_service.dart';
-import 'package:webinar/app/services/user_service/forum_service.dart';
-import 'package:webinar/app/widgets/main_widget/home_widget/single_course_widget/learning_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/config/assets.dart';
+import 'package:incrat/app/models/content_model.dart';
+import 'package:incrat/app/models/forum_model.dart';
+import 'package:incrat/app/models/single_course_model.dart';
+import 'package:incrat/app/services/guest_service/course_service.dart';
+import 'package:incrat/app/services/user_service/forum_service.dart';
+import 'package:incrat/app/widgets/main_widget/home_widget/single_course_widget/learning_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/config/assets.dart';
 
 import '../../../../../common/utils/app_text.dart';
 import '../../../../../config/colors.dart';

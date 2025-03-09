@@ -1,4 +1,4 @@
-package com.webinar.webinar
+package academy.incrat.com
 
 import io.flutter.embedding.android.FlutterActivity
 import com.facebook.FacebookSdk;

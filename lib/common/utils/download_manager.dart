@@ -3,10 +3,10 @@ import 'package:dio/dio.dart';
 import 'package:open_file/open_file.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/enums/error_enum.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/enums/error_enum.dart';
+import 'package:incrat/locator.dart';
 
 import '../data/app_data.dart';
 import '../data/app_language.dart';

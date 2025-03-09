@@ -1,7 +1,7 @@
-import 'package:webinar/app/models/course_model.dart';
-import 'package:webinar/app/models/single_course_model.dart';
-import 'package:webinar/common/data/app_language.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/models/course_model.dart';
+import 'package:incrat/app/models/single_course_model.dart';
+import 'package:incrat/common/data/app_language.dart';
+import 'package:incrat/locator.dart';
 
 class ListQuizModel {
   int? id;

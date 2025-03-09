@@ -1,11 +1,11 @@
 import 'dart:convert';
 
 import 'package:http/http.dart';
-import 'package:webinar/app/models/note_model.dart';
-import 'package:webinar/common/enums/error_enum.dart';
-import 'package:webinar/common/utils/constants.dart';
-import 'package:webinar/common/utils/error_handler.dart';
-import 'package:webinar/common/utils/http_handler.dart';
+import 'package:incrat/app/models/note_model.dart';
+import 'package:incrat/common/enums/error_enum.dart';
+import 'package:incrat/common/utils/constants.dart';
+import 'package:incrat/common/utils/error_handler.dart';
+import 'package:incrat/common/utils/http_handler.dart';
 
 class PersonalNoteService{
 

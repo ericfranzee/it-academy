@@ -2,9 +2,9 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:http/http.dart';
-import 'package:webinar/app/models/assignment_model.dart';
-import 'package:webinar/app/models/instructor_assignment_model.dart';
-import 'package:webinar/common/utils/http_handler.dart';
+import 'package:incrat/app/models/assignment_model.dart';
+import 'package:incrat/app/models/instructor_assignment_model.dart';
+import 'package:incrat/common/utils/http_handler.dart';
 import '../../../common/enums/error_enum.dart';
 import '../../../common/utils/constants.dart';
 import '../../../common/utils/error_handler.dart';

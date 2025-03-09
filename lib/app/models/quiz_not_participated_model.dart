@@ -1,6 +1,6 @@
-import 'package:webinar/app/models/course_model.dart';
-import 'package:webinar/app/models/quize_model.dart';
-import 'package:webinar/app/models/user_model.dart';
+import 'package:incrat/app/models/course_model.dart';
+import 'package:incrat/app/models/quize_model.dart';
+import 'package:incrat/app/models/user_model.dart';
 
 class QuizNotParticipatedModel {
   int? id;

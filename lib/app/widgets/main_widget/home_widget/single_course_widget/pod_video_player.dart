@@ -1,6 +1,6 @@
 import 'package:pod_player/pod_player.dart';
 import 'package:flutter/material.dart';
-import 'package:webinar/common/common.dart';
+import 'package:incrat/common/common.dart';
 import 'package:youtube_player_iframe/youtube_player_iframe.dart';
 
 class PodVideoPlayerDev extends StatefulWidget {

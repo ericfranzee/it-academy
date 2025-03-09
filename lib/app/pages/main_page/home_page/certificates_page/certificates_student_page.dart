@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/user_model.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
+import 'package:incrat/app/models/user_model.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
 
 class CertificatesStudentPage extends StatefulWidget {
   static const String pageName = '/certificate-students';

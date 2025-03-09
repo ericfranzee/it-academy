@@ -2,11 +2,11 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:webinar/app/models/support_model.dart';
-import 'package:webinar/app/services/user_service/support_service.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/models/support_model.dart';
+import 'package:incrat/app/services/user_service/support_service.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/config/styles.dart';
 
 import '../../../../../common/utils/app_text.dart';
 import '../../../../../config/assets.dart';

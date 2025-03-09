@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/services/user_service/financial_service.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/constants.dart';
-import 'package:webinar/common/utils/utils.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
+import 'package:incrat/app/services/user_service/financial_service.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/constants.dart';
+import 'package:incrat/common/utils/utils.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
 
 class BankAccountsPage extends StatefulWidget {
   static const String pageName = '/bank-accounts';

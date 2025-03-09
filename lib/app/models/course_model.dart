@@ -1,8 +1,8 @@
-import 'package:webinar/app/models/can_model.dart';
-import 'package:webinar/app/models/single_course_model.dart';
-import 'package:webinar/app/models/user_model.dart';
-import 'package:webinar/common/data/app_language.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/models/can_model.dart';
+import 'package:incrat/app/models/single_course_model.dart';
+import 'package:incrat/app/models/user_model.dart';
+import 'package:incrat/common/data/app_language.dart';
+import 'package:incrat/locator.dart';
 
 class CourseModel {
   String? thumbnail;

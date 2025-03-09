@@ -1,5 +1,5 @@
-import 'package:webinar/app/models/banks_model.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/models/banks_model.dart';
+import 'package:incrat/locator.dart';
 
 import '../../common/data/app_language.dart';
 

@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:http/http.dart';
-import 'package:webinar/app/providers/user_provider.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/providers/user_provider.dart';
+import 'package:incrat/locator.dart';
 
 import '../../../common/enums/error_enum.dart';
 import '../../../common/utils/constants.dart';

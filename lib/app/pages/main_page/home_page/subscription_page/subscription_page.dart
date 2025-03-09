@@ -2,17 +2,17 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:uni_links/uni_links.dart';
-import 'package:webinar/app/models/saas_package_model.dart';
-import 'package:webinar/app/pages/main_page/home_page/payment_status_page/payment_status_page.dart';
-import 'package:webinar/app/pages/main_page/home_page/single_course_page/single_content_page/web_view_page.dart';
-import 'package:webinar/app/providers/user_provider.dart';
-import 'package:webinar/app/services/user_service/subscription_service.dart';
-import 'package:webinar/app/widgets/main_widget/subscription_widget/subscription_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/constants.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/models/saas_package_model.dart';
+import 'package:incrat/app/pages/main_page/home_page/payment_status_page/payment_status_page.dart';
+import 'package:incrat/app/pages/main_page/home_page/single_course_page/single_content_page/web_view_page.dart';
+import 'package:incrat/app/providers/user_provider.dart';
+import 'package:incrat/app/services/user_service/subscription_service.dart';
+import 'package:incrat/app/widgets/main_widget/subscription_widget/subscription_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/constants.dart';
+import 'package:incrat/locator.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 import '../../../../models/subscription_model.dart';

@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.webinar.webinar</string>
+	<string>academy.incrat.com</string>
 	<key>PROJECT_ID</key>
 	<string>webinar-c51b7</string>
 	<key>STORAGE_BUCKET</key>

@@ -2,13 +2,13 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:webinar/app/models/currency_model.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/data/api_public_data.dart';
-import 'package:webinar/common/data/app_data.dart';
-import 'package:webinar/common/data/app_language.dart';
-import 'package:webinar/common/utils/currency_utils.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/models/currency_model.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/data/api_public_data.dart';
+import 'package:incrat/common/data/app_data.dart';
+import 'package:incrat/common/data/app_language.dart';
+import 'package:incrat/common/utils/currency_utils.dart';
+import 'package:incrat/locator.dart';
 
 import '../../../common/common.dart';
 import '../../../common/enums/page_name_enum.dart';

@@ -1,5 +1,5 @@
 
-import 'package:webinar/common/utils/app_text.dart';
+import 'package:incrat/common/utils/app_text.dart';
 
 String roleTranslator(String role){
 

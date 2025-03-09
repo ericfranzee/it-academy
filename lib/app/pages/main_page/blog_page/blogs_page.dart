@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:webinar/app/models/blog_model.dart';
-import 'package:webinar/app/pages/main_page/blog_page/details_blog_page.dart';
-import 'package:webinar/app/providers/drawer_provider.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/app/widgets/main_widget/blog_widget/blog_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/shimmer_component.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/object_instance.dart';
-import 'package:webinar/config/assets.dart';
+import 'package:incrat/app/models/blog_model.dart';
+import 'package:incrat/app/pages/main_page/blog_page/details_blog_page.dart';
+import 'package:incrat/app/providers/drawer_provider.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/app/widgets/main_widget/blog_widget/blog_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/shimmer_component.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/object_instance.dart';
+import 'package:incrat/config/assets.dart';
 
 import '../../../models/basic_model.dart';
 import '../../../services/user_service/blog_service.dart';

@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
-import 'package:webinar/app/models/content_model.dart';
-import 'package:webinar/app/models/course_model.dart';
-import 'package:webinar/app/pages/main_page/categories_page/categories_page.dart';
-import 'package:webinar/app/pages/offline_page/offline_single_content_page.dart';
-import 'package:webinar/app/widgets/main_widget/home_widget/single_course_widget/single_course_widget.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/database/app_database.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/date_formater.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
+import 'package:incrat/app/models/content_model.dart';
+import 'package:incrat/app/models/course_model.dart';
+import 'package:incrat/app/pages/main_page/categories_page/categories_page.dart';
+import 'package:incrat/app/pages/offline_page/offline_single_content_page.dart';
+import 'package:incrat/app/widgets/main_widget/home_widget/single_course_widget/single_course_widget.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/database/app_database.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/date_formater.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
 
 class OfflineSingleCoursePage extends StatefulWidget {
   static const String pageName = '/offline-single-course';

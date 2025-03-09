@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:webinar/app/models/profile_model.dart';
-import 'package:webinar/app/pages/main_page/providers_page/user_profile_page/select_date_page.dart';
-import 'package:webinar/app/providers/user_provider.dart';
-import 'package:webinar/app/services/guest_service/providers_service.dart';
-import 'package:webinar/common/common.dart';
-import 'package:webinar/common/components.dart';
-import 'package:webinar/common/utils/app_text.dart';
-import 'package:webinar/common/utils/currency_utils.dart';
-import 'package:webinar/config/assets.dart';
-import 'package:webinar/config/colors.dart';
-import 'package:webinar/config/styles.dart';
-import 'package:webinar/locator.dart';
+import 'package:incrat/app/models/profile_model.dart';
+import 'package:incrat/app/pages/main_page/providers_page/user_profile_page/select_date_page.dart';
+import 'package:incrat/app/providers/user_provider.dart';
+import 'package:incrat/app/services/guest_service/providers_service.dart';
+import 'package:incrat/common/common.dart';
+import 'package:incrat/common/components.dart';
+import 'package:incrat/common/utils/app_text.dart';
+import 'package:incrat/common/utils/currency_utils.dart';
+import 'package:incrat/config/assets.dart';
+import 'package:incrat/config/colors.dart';
+import 'package:incrat/config/styles.dart';
+import 'package:incrat/locator.dart';
 
 import '../../../../widgets/main_widget/provider_widget/user_profile_widget.dart';
 
