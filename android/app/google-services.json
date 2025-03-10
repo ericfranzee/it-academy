@@ -1,45 +1,53 @@
 {
   "project_info": {
-    "project_number": "346142227155",
-    "project_id": "webinar-c51b7",
-    "storage_bucket": "webinar-c51b7.appspot.com"
+    "project_number": "64235358220",
+    "project_id": "incrat-academy",
+    "storage_bucket": "incrat-academy.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:346142227155:android:ea2e14d4ed957a79d23226",
+        "mobilesdk_app_id": "1:64235358220:android:2a7d7ec254d1a3a28b4629",
         "android_client_info": {
           "package_name": "academy.incrat.com"
         }
       },
       "oauth_client": [
         {
-          "client_id": "346142227155-hp5epl1gdhk7p7422nevg91k7pofs342.apps.googleusercontent.com",
+          "client_id": "64235358220-cr9a8m8l36h0lu15hhdgrfvbikfrgatt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "academy.incrat.com",
-            "certificate_hash": "ad828d5d01b33d10617e52e2b2cbc2d2516c1bb4"
+            "certificate_hash": "df1d1822e3ec58b50bdaee2629dc7bf854b2f941"
           }
         },
         {
-          "client_id": "346142227155-rmrbm5ro6r8d038s3u9cph7umvjrrvks.apps.googleusercontent.com",
+          "client_id": "64235358220-p3nutm0cjsu5onm7f2vclj0ks1lv24ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "academy.incrat.com",
+            "certificate_hash": "400de3db3d4ee513b99308faf2f2569f6aac11ab"
+          }
+        },
+        {
+          "client_id": "64235358220-susbud632kbqjjkcsrom5557vdg7qe4u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyATOMUHqK1GBarcT394Drm6RFi50LsX3wQ"
+          "current_key": "AIzaSyAvl9Agpl6wQLGhukgaTGEIvECndgH2r-k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "346142227155-be19v4v7jj1dh2eqb2avp2tmnghahoc8.apps.googleusercontent.com",
+              "client_id": "64235358220-susbud632kbqjjkcsrom5557vdg7qe4u.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "346142227155-30a9drvvvduc0qboegip572sh6e30aeg.apps.googleusercontent.com",
+              "client_id": "64235358220-me5k9d1qv9ldml6fv9kcr9cgoi6uft2e.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "academy.incrat.com"

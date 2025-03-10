@@ -127,9 +127,9 @@ flutter_native_splash:
   android: true
   ios: true
   web: false
-  color: "#eeffff"
-  color_dark: "#eeffff"
-  image: assets/image/png/ITA-logo.png
+  #color: "#eeffff"
+  #color_dark: "#eeffff"
+  background_image: assets/image/png/ita-bg.png
 
   android_12:
     image: assets/image/png/ITA-logo.png

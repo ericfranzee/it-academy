@@ -111,7 +111,7 @@ class _SplashPageState extends State<SplashPage> with SingleTickerProviderStateM
                 ),
 
                 Center(
-                  child: SvgPicture.asset(AppAssets.logoLineSvg),
+                  child: SvgPicture.asset(AppAssets.splashLogoSvg),
                 ),
               ],
             ),
