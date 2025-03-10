@@ -114,8 +114,7 @@ dev_dependencies:
 flutter_launcher_icons:
   android: "ic_launcher"
   ios: true
-  image_path: "assets/image/png/ITA-logo.png"
-  background_color: "#ffffff"
+  image_path: "assets/image/png/ITA-logo-white.png"
   min_sdk_android: 21 # android min sdk min:16, default 21
   web:
     generate: true
@@ -129,13 +128,16 @@ flutter_native_splash:
   web: false
   #color: "#eeffff"
   #color_dark: "#eeffff"
-  background_image: assets/image/png/ita-bg.png
+  background_image: assets/image/png/ita-splash-bg.png
+  branding: assets/image/png/ITA-logo.png
+  branding_mode: bottomRight
+  #branding_bottom_padding: 24
 
   android_12:
-    image: assets/image/png/ITA-logo.png
+    #background_image: assets/image/png/ita-splash-bg.png
     icon_background_color: "#eeffff"
-    image_dark: assets/image/png/ITA-logo.png
-    icon_background_color_dark: "#eeffff"
+    #image_dark: assets/image/png/ITA-logo.png
+    #icon_background_color_dark: "#eeffff"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

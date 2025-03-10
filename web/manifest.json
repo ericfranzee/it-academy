@@ -1,11 +1,11 @@
 {
-    "name": "webinar",
-    "short_name": "webinar",
+    "name": "IT Academy",
+    "short_name": "ITA",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#eeffff",
-    "description": "A new Flutter project.",
+    "description": "Learning made easy.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
